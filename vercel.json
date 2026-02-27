@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    { "src": "/", "dest": "api/movie_posters.py" },
+    { "src": "/api/movie-posters", "dest": "api/movie_posters.py" }
+  ]
+}
