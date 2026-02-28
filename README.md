@@ -110,9 +110,6 @@ All settings are managed in `api/config.py`.
 - **Powered by**: [@Blaze_Updatez](https://t.me/Blaze_Updatez)
 - **Created by**: [@Bharath_boy](https://t.me/Bharath_boy)
 
-## ⚖️ License
-
-MIT License. See [LICENSE](LICENSE) for more details.
 
 ---
 
